@@ -1,7 +1,7 @@
 {
   "name": "grunt-pakman",
   "description": "A dependency package manager for grunt",
-  "version": "0.1.53",
+  "version": "0.1.54",
   "homepage": "https://github.com/ebullion/grunt-pakman",
   "author": {
     "name": "Eric Bullion",
