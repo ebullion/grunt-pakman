@@ -1,7 +1,7 @@
 {
   "name": "grunt-pakman",
   "description": "A dependency package manager for grunt",
-  "version": "0.1.51",
+  "version": "0.1.52",
   "homepage": "https://github.com/ebullion/grunt-pakman",
   "author": {
     "name": "Eric Bullion",
@@ -34,7 +34,14 @@
     "grunt-contrib-nodeunit": "^0.3.3"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "package",
+    "packagemanager",
+    "minify",
+    "bundle",
+    "production",
+    "dependencies",
+    "manage"
   ],
   "dependencies": {
     "clean-css": "^4.1.9",
