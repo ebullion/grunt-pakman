@@ -291,6 +291,6 @@ grunt.initConfig({
 ```
 
 ## Release History
-0.1.51 - Updated documentation
+0.1.53 - Updated documentation
 
 0.1.50 - Initial Release
