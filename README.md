@@ -166,6 +166,21 @@ Type: `String`
 Default value: `undefined`
 
 Specifies the entry point of your web application
+when options.packDependencies is set to true.
+
+#### options.dest
+Type: `String`
+Default value: `undefined`
+
+Specifies the path for the generated output
+when options.packDependencies is set to true. 
+
+#### options.targetDirectory
+Type: `String`
+Default value: `undefined`
+
+Specifies the output directory for files generated
+when options.dest is not supplied.
 
 
 #### options.packDependencies
